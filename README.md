@@ -29,4 +29,4 @@ $ source .venv/bin/activate (for macOS and Linux)
 ```
 $ pip install -r requirements.txt
 ```
-**7**. Open the `notebook.ipynb` file.
+**7**. Open the `notebook.ipynb` file and run code cells.
