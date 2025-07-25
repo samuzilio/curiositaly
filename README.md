@@ -1,9 +1,10 @@
 # CuriosItaly
 ## Overview
-Ever wondered what are the most frequent names for bars/hotels/restaurants in Italy?  
+Ever wondered what are the most frequent names for bars/hotels/restaurants in Italy???  
 Me neither.  
 Here is a useless analysis that does exactly that.  
 Enjoy!
+:rocket:
 
 <br>
 
