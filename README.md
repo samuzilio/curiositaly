@@ -5,7 +5,7 @@ TBD
 <br>
 
 ## Instructions
-Follow these steps to set up and run the script on your local machine:
+Follow these steps to set up and run the notebook on your local machine:
 
 **1**. Clone the repository:
 ```
@@ -29,4 +29,4 @@ $ source .venv/bin/activate (for macOS and Linux)
 ```
 $ pip install -r requirements.txt
 ```
-**7**. Open the `notebook.ipynb` file and run code cells.
+**7**. Open the `.ipynb` file and run code cells.
