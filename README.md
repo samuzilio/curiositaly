@@ -1,8 +1,8 @@
-# CuriosItaly IT
+# CuriosItaly :it:
 ## Overview
 Ever wondered what are the most frequent names for bars/hotels/restaurants in Italy???  
 Me neither, but here is a pointless analysis that does exactly that.  
-Enjoy!
+Enjoy! :it:
 
 <br>
 
