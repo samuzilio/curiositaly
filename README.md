@@ -1,8 +1,8 @@
-# CuriosItaly 🇮🇹
+# CuriosItaly
 ## Overview
 Ever wondered what are the most frequent names for bars/hotels/restaurants in Italy???  
 Me neither, but here is a pointless analysis that does exactly that.  
-Enjoy! :it:
+Enjoy! 🤌
 
 <br>
 
